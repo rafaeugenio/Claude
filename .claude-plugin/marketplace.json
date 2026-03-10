@@ -1,0 +1,17 @@
+{
+  "name": "rafaeugenio-marketplace",
+  "owner": {
+    "name": "Rafael Eugenio"
+  },
+  "metadata": {
+    "description": "Skills e plugins pessoais de Rafael Eugenio"
+  },
+  "plugins": [
+    {
+      "name": "my-skills",
+      "source": ".",
+      "description": "Skills e plugins pessoais de Rafael",
+      "version": "1.0.0"
+    }
+  ]
+}
